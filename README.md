@@ -90,9 +90,6 @@ The Firebase database is organized by date and time:
 - Multi-language support
 - AI-based movement prediction and correction suggestions
 
-## Support
-For technical support or feature requests, please contact our team at rehablab.support@example.com
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
