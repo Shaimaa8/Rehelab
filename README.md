@@ -1,4 +1,4 @@
-# Rehelab# RehabLab - Wearable Rehabilitation Tracker
+# RehabLab - Wearable Rehabilitation Tracker
 
 ## Overview
 RehabLab is an innovative wearable solution designed to track and analyze movements during rehabilitation or training activities. It utilizes 3D gyroscope technology to accurately measure limb and joint angles, providing real-time feedback and progress tracking to ensure correct form and reduce injury risk.
