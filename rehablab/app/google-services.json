@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "838164912831",
+    "firebase_url": "https://rehablabdatabase-58a90-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rehablabdatabase-58a90",
+    "storage_bucket": "rehablabdatabase-58a90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838164912831:android:cc624dc300370442d1440a",
+        "android_client_info": {
+          "package_name": "com.rehablab.rehablab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4lSJV62uWjH5Js3U7NoSmqab8eOmWJsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
